@@ -3764,7 +3764,8 @@
         "stroke-width": 3,
         "fill": "#ff0000",
         "fill-opacity": 1
-      }
+      },
+      "id": 50
     },
     {
       "type": "Feature",
@@ -6301,6 +6302,526 @@
             [
               -97.72118971205823,
               30.371073266573546
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parmer and Station 28 Camp",
+        "styleUrl": "#poly-FFFF00-3000-0-nodesc",
+        "styleHash": "-6ce104fc",
+        "styleMapHash": {
+          "normal": "#poly-FFFF00-3000-0-nodesc-normal",
+          "highlight": "#poly-FFFF00-3000-0-nodesc-highlight"
+        },
+        "stroke": "#ff0000",
+        "stroke-opacity": 1,
+        "stroke-width": 3,
+        "fill": "#ff0000",
+        "fill-opacity": 1
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -97.70103911464352,
+              30.419748023356988
+            ],
+            [
+              -97.70108439441158,
+              30.419727675169497
+            ],
+            [
+              -97.70106398662834,
+              30.419708426878913
+            ],
+            [
+              -97.7010282730088,
+              30.419728225119954
+            ],
+            [
+              -97.70103911464352,
+              30.419748023356988
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Slaughter and Bilbrook Camp",
+        "styleUrl": "#poly-FFFF00-3000-0-nodesc",
+        "styleHash": "-6ce104fc",
+        "styleMapHash": {
+          "normal": "#poly-FFFF00-3000-0-nodesc-normal",
+          "highlight": "#poly-FFFF00-3000-0-nodesc-highlight"
+        },
+        "stroke": "#ff0000",
+        "stroke-opacity": 1,
+        "stroke-width": 3,
+        "fill": "#ff0000",
+        "fill-opacity": 1
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -97.81783711967108,
+              30.17343569558375
+            ],
+            [
+              -97.81804331847701,
+              30.173415322952863
+            ],
+            [
+              -97.81799609969414,
+              30.1726954508253
+            ],
+            [
+              -97.81773302559724,
+              30.172726136002225
+            ],
+            [
+              -97.81771110275601,
+              30.17296800706613
+            ],
+            [
+              -97.81775912421784,
+              30.17324868505692
+            ],
+            [
+              -97.81783711967108,
+              30.17343569558375
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Slaughter and Alice Mae Camp",
+        "styleUrl": "#poly-FFFF00-3000-0-nodesc",
+        "styleHash": "-6ce104fc",
+        "styleMapHash": {
+          "normal": "#poly-FFFF00-3000-0-nodesc-normal",
+          "highlight": "#poly-FFFF00-3000-0-nodesc-highlight"
+        },
+        "stroke": "#ff0000",
+        "stroke-opacity": 1,
+        "stroke-width": 3,
+        "fill": "#ff0000",
+        "fill-opacity": 1
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -97.79275028065744,
+              30.167795192794657
+            ],
+            [
+              -97.79240413196345,
+              30.167717482960043
+            ],
+            [
+              -97.79210961871031,
+              30.167729056768934
+            ],
+            [
+              -97.79181893030469,
+              30.167925811315342
+            ],
+            [
+              -97.79172713396603,
+              30.16817712747492
+            ],
+            [
+              -97.79177685698266,
+              30.168426789604624
+            ],
+            [
+              -97.79229703623511,
+              30.16841190909811
+            ],
+            [
+              -97.79257433767481,
+              30.168101071336082
+            ],
+            [
+              -97.79275028065744,
+              30.167795192794657
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Slaughter and Cullen Camp",
+        "styleUrl": "#poly-FFFF00-3000-0-nodesc",
+        "styleHash": "-6ce104fc",
+        "styleMapHash": {
+          "normal": "#poly-FFFF00-3000-0-nodesc-normal",
+          "highlight": "#poly-FFFF00-3000-0-nodesc-highlight"
+        },
+        "stroke": "#ff0000",
+        "stroke-opacity": 1,
+        "stroke-width": 3,
+        "fill": "#ff0000",
+        "fill-opacity": 1
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -97.79089547145458,
+              30.167011618871328
+            ],
+            [
+              -97.79094698093328,
+              30.166975875068303
+            ],
+            [
+              -97.79092122619423,
+              30.16692431021424
+            ],
+            [
+              -97.79088869389173,
+              30.16693192775122
+            ],
+            [
+              -97.79087378325312,
+              30.166991110133694
+            ],
+            [
+              -97.79089547145458,
+              30.167011618871328
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Slaughter and S 35 Camp",
+        "styleUrl": "#poly-FFFF00-3000-0-nodesc",
+        "styleHash": "-6ce104fc",
+        "styleMapHash": {
+          "normal": "#poly-FFFF00-3000-0-nodesc-normal",
+          "highlight": "#poly-FFFF00-3000-0-nodesc-highlight"
+        },
+        "stroke": "#ff0000",
+        "stroke-opacity": 1,
+        "stroke-width": 3,
+        "fill": "#ff0000",
+        "fill-opacity": 1
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -97.78611037655241,
+              30.16743060535555
+            ],
+            [
+              -97.78623759533137,
+              30.167451503138494
+            ],
+            [
+              -97.7862719444023,
+              30.167360212790328
+            ],
+            [
+              -97.78617398594189,
+              30.167351413715934
+            ],
+            [
+              -97.78611037655241,
+              30.16743060535555
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Slaughter and N 35 Camp",
+        "styleUrl": "#poly-FFFF00-3000-0-nodesc",
+        "styleHash": "-6ce104fc",
+        "styleMapHash": {
+          "normal": "#poly-FFFF00-3000-0-nodesc-normal",
+          "highlight": "#poly-FFFF00-3000-0-nodesc-highlight"
+        },
+        "stroke": "#ff0000",
+        "stroke-opacity": 1,
+        "stroke-width": 3,
+        "fill": "#ff0000",
+        "fill-opacity": 1
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -97.78546265685058,
+              30.167386528250674
+            ],
+            [
+              -97.78529935534036,
+              30.16737476290747
+            ],
+            [
+              -97.78522110670012,
+              30.167443884281013
+            ],
+            [
+              -97.78529085005354,
+              30.167536536258808
+            ],
+            [
+              -97.78543203781746,
+              30.16751300560611
+            ],
+            [
+              -97.78546265685058,
+              30.167386528250674
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ben White and S 35 Camp",
+        "styleUrl": "#poly-FFFF00-3000-0-nodesc",
+        "styleHash": "-6ce104fc",
+        "styleMapHash": {
+          "normal": "#poly-FFFF00-3000-0-nodesc-normal",
+          "highlight": "#poly-FFFF00-3000-0-nodesc-highlight"
+        },
+        "stroke": "#ff0000",
+        "stroke-opacity": 1,
+        "stroke-width": 3,
+        "fill": "#ff0000",
+        "fill-opacity": 1
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -97.75097686888853,
+              30.21851470776396
+            ],
+            [
+              -97.75112369332675,
+              30.218377765609148
+            ],
+            [
+              -97.75093025795564,
+              30.21830325288593
+            ],
+            [
+              -97.7508580110096,
+              30.218468389114832
+            ],
+            [
+              -97.75097686888853,
+              30.21851470776396
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riverside and S 35 Camp",
+        "styleUrl": "#poly-FFFF00-3000-0-nodesc",
+        "styleHash": "-6ce104fc",
+        "styleMapHash": {
+          "normal": "#poly-FFFF00-3000-0-nodesc-normal",
+          "highlight": "#poly-FFFF00-3000-0-nodesc-highlight"
+        },
+        "stroke": "#ff0000",
+        "stroke-opacity": 1,
+        "stroke-width": 3,
+        "fill": "#ff0000",
+        "fill-opacity": 1
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -97.73546745971868,
+              30.246190385566834
+            ],
+            [
+              -97.73566566951274,
+              30.24613548825029
+            ],
+            [
+              -97.73564448678687,
+              30.24593289074589
+            ],
+            [
+              -97.73544173783745,
+              30.2459538040559
+            ],
+            [
+              -97.7354235812147,
+              30.2460688271819
+            ],
+            [
+              -97.73546745971868,
+              30.246190385566834
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cesar Chavez and San Marcos Camp",
+        "styleUrl": "#poly-FFFF00-3000-0-nodesc",
+        "styleHash": "-6ce104fc",
+        "styleMapHash": {
+          "normal": "#poly-FFFF00-3000-0-nodesc-normal",
+          "highlight": "#poly-FFFF00-3000-0-nodesc-highlight"
+        },
+        "stroke": "#ff0000",
+        "stroke-opacity": 1,
+        "stroke-width": 3,
+        "fill": "#ff0000",
+        "fill-opacity": 1
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -97.73456827440964,
+              30.260427019948395
+            ],
+            [
+              -97.73447175475503,
+              30.260393209483567
+            ],
+            [
+              -97.73445942168762,
+              30.26043720940079
+            ],
+            [
+              -97.73454414449598,
+              30.26046360934184
+            ],
+            [
+              -97.73456827440964,
+              30.260427019948395
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "E 38 1/2 and N 35 Camp",
+        "styleUrl": "#poly-FFFF00-3000-0-nodesc",
+        "styleHash": "-6ce104fc",
+        "styleMapHash": {
+          "normal": "#poly-FFFF00-3000-0-nodesc-normal",
+          "highlight": "#poly-FFFF00-3000-0-nodesc-highlight"
+        },
+        "stroke": "#ff0000",
+        "stroke-opacity": 1,
+        "stroke-width": 3,
+        "fill": "#ff0000",
+        "fill-opacity": 1
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -97.71930151964867,
+              30.29414207647983
+            ],
+            [
+              -97.71932870672822,
+              30.294090432332993
+            ],
+            [
+              -97.71924805172537,
+              30.294069305174276
+            ],
+            [
+              -97.71921089604946,
+              30.294106864564654
+            ],
+            [
+              -97.71930151964867,
+              30.29414207647983
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N 35 and E 290 Camp",
+        "styleUrl": "#poly-FFFF00-3000-0-nodesc",
+        "styleHash": "-6ce104fc",
+        "styleMapHash": {
+          "normal": "#poly-FFFF00-3000-0-nodesc-normal",
+          "highlight": "#poly-FFFF00-3000-0-nodesc-highlight"
+        },
+        "stroke": "#ff0000",
+        "stroke-opacity": 1,
+        "stroke-width": 3,
+        "fill": "#ff0000",
+        "fill-opacity": 1
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -97.70554536809487,
+              30.321978115724463
+            ],
+            [
+              -97.70565418471193,
+              30.321955374601117
+            ],
+            [
+              -97.70565418471193,
+              30.32188813994459
+            ],
+            [
+              -97.70554994984725,
+              30.321902971122512
+            ],
+            [
+              -97.70554536809487,
+              30.321978115724463
             ]
           ]
         ],
