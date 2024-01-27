@@ -619,10 +619,10 @@
           "normal": "#poly-FF7700-3000-0-nodesc-normal",
           "highlight": "#poly-FF7700-3000-0-nodesc-highlight"
         },
-        "stroke": "#ff7700",
+        "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 3,
-        "fill": "#ff7700",
+        "fill": "#ff0000",
         "fill-opacity": 1
       }
     },
