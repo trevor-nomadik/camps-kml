@@ -6827,6 +6827,58 @@
         ],
         "type": "Polygon"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bouldin Creek Greenbelt Camp",
+        "styleUrl": "#poly-FFFF00-3000-0-nodesc",
+        "styleHash": "-6ce104fc",
+        "styleMapHash": {
+          "normal": "#poly-FFFF00-3000-0-nodesc-normal",
+          "highlight": "#poly-FFFF00-3000-0-nodesc-highlight"
+        },
+        "stroke": "#ff0000",
+        "stroke-opacity": 1,
+        "stroke-width": 3,
+        "fill": "#ff0000",
+        "fill-opacity": 1
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -97.75813754162905,
+              30.258683718533646
+            ],
+            [
+              -97.75833551197469,
+              30.258344747081452
+            ],
+            [
+              -97.75799388173199,
+              30.258185853810943
+            ],
+            [
+              -97.75780467113606,
+              30.25832204805883
+            ],
+            [
+              -97.75780116723585,
+              30.25850969315745
+            ],
+            [
+              -97.75788175693428,
+              30.258639833902777
+            ],
+            [
+              -97.75813754162905,
+              30.258683718533646
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
     }
   ]
 }
